@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#202630"/><stop offset="1" stop-color="#090c12"/></linearGradient><linearGradient id="plastic" x2="1" y2="1"><stop stop-color="#e8edf3"/><stop offset="1" stop-color="#8e9bab"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="8"/></filter></defs>
+<rect width="900" height="620" fill="url(#bg)"/><circle cx="730" cy="120" r="190" fill="#d71920" opacity=".13"/>
+<path d="M70 72H830V548H70Z" fill="none" stroke="#aeb9c8" stroke-width="12" rx="12"/>
+<path d="M70 72V548M830 72V548M70 72H830M70 548H830" stroke="#d9e0e8" stroke-width="8" fill="none"/>
+<g stroke="#c3ccd7" stroke-width="7" fill="none"><path d="M70 175H830M70 310H830M70 440H830"/><path d="M250 72V548M475 72V548M660 72V548"/></g>
+<g fill="url(#plastic)" stroke="#657487" stroke-width="5">
+<path d="M115 105h95l-10 42h-75zM285 100h140l-12 60H300zM520 100h110l-8 50H530zM690 100h95l-12 50h-75z"/>
+<path d="M110 205l55-18 45 18-10 78h-85zM290 205h110l18 35-20 50H285zM530 205l45-20 65 20-12 82h-95zM700 205h80v80h-80z"/>
+<path d="M105 345h110l-8 70H115zM300 340l45-15 65 20-10 75H300zM525 345h100l-10 75h-85zM700 340h90l-8 80h-75z"/>
+<path d="M110 465h105v55H110zM300 465h120v55H300zM530 465h100v55H530zM700 465h90v55H700z"/>
+</g>
+<g fill="#d71920"><circle cx="163" cy="125" r="8"/><circle cx="350" cy="130" r="8"/><circle cx="575" cy="125" r="8"/><circle cx="740" cy="125" r="8"/><circle cx="160" cy="245" r="8"/><circle cx="350" cy="245" r="8"/><circle cx="575" cy="245" r="8"/><circle cx="740" cy="245" r="8"/></g>
+<g fill="#222a35" opacity=".9"><rect x="135" y="155" width="50" height="14" rx="4"/><rect x="330" y="160" width="55" height="12" rx="4"/><rect x="550" y="155" width="60" height="14" rx="4"/><rect x="715" y="155" width="45" height="14" rx="4"/></g>
+<text x="95" y="590" fill="#fff" font-family="Arial" font-size="18" letter-spacing="5">GUNPLA RUNNER / PARTS FRAME 01</text></svg>
